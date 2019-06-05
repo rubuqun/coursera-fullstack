@@ -1,0 +1,38 @@
+
+/** HEADER **/
+
+#nav-list a {
+  text-align: center;
+}
+
+.nav-item {
+	margin: 0 1.2rem;
+	border-bottom: 1px solid #000;
+}
+
+/* END HEADER */
+
+/* HOME PAGE */
+
+.h1 {
+	font-size: 2em;
+}
+
+.h2 { 
+  margin: 30px;
+  font-size: 1.8em;
+}
+.category-title {
+	padding: 0 0 .5rem 0;
+  	font-size: 1.4em;
+}
+
+@media (min-width: 576px) {
+
+	.jumbotron {
+		padding: 2rem 2rem;
+	}
+	
+}
+
+/* END HOME PAGE */
